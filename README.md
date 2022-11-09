@@ -1,4 +1,4 @@
-![Illustration](art.png)
+![Illustration](code/art.png)
 
 The project is not that compilcated :
 
